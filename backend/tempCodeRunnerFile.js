@@ -1,0 +1,1 @@
+app.use('/api/hello',require('./routes/hello'))
